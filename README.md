@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" alt="Rodapé rosa">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=78B7AD&height=100&section=footer" alt="Rodapé rosa queimado">
 </p>
 
 <h1 align="center">
@@ -17,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CREATIVITY-FF69B4?style=for-the-badge&logoColor=white" alt="Criatividade">
   <img src="https://img.shields.io/badge/TECHNOLOGY-FF1493?style=for-the-badge&logoColor=white" alt="Tecnologia">
-  <img src="https://img.shields.io/badge/DESIGN-181717?style=for-the-badge&logoColor=white" alt="Design">
+  <img src="https://img.shields.io/badge/DESIGN-78B7AD?style=for-the-badge&logoColor=white" alt="Design">
 </p>
 
 ---
@@ -41,16 +39,16 @@ Tenho interesse em **desenvolvimento Front-end e UX/UI Design** e quero aprender
 ---
 
 
-### 🖤 Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=FF69B4" alt="Java">
-  <img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF69B4" alt="GitHub">
+  <img src="https://img.shields.io/badge/HTML-78B7AD?style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-FF1493?style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-78B7AD?style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-78B7AD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 
@@ -68,7 +66,7 @@ Tenho interesse em **desenvolvimento Front-end e UX/UI Design** e quero aprender
 
 <p align="center">
   <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/MEU_GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=181717" alt="Meu GitHub">
+    <img src="https://img.shields.io/badge/MEU_GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub">
   </a>
 </p>
 
@@ -77,5 +75,5 @@ Tenho interesse em **desenvolvimento Front-end e UX/UI Design** e quero aprender
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" alt="Rodapé rosa">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=78B7AD&height=100&section=footer" alt="Rodapé rosa">
 </p>
