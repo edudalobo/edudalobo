@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=78B7AD&height=100&section=footer" alt="Rodapé rosa queimado">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=78B7AD&height=100&section=footer" alt="Onda verde-água">
 </p>
 
 <h1 align="center">
@@ -75,5 +75,5 @@ Tenho interesse em **desenvolvimento Front-end e UX/UI Design** e quero aprender
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=78B7AD&height=100&section=footer" alt="Rodapé rosa">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=78B7AD&height=100&section=footer" alt="Onda verde-água">
 </p>
