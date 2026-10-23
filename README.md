@@ -40,15 +40,19 @@ Tenho interesse em **desenvolvimento Front-end e UX/UI Design** e quero aprender
 
 ---
 
+
 ### 🖤 Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=FF69B4" alt="Git">
+  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=FF69B4" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF69B4" alt="GitHub">
 </p>
+
 
 ### 🎯 Meus objetivos
 
