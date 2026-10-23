@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Duda!+%F0%9F%92%97;Bem-vindo(a)+ao+meu+GitHub!" alt="Oii, eu sou a Duda!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Duda!+%F0%9F%8C%BA;Bem-vindo(a)+ao+meu+GitHub!" alt="Oii, eu sou a Duda!" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <img align="right" width="152" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVrcGdzb2lpbTdjeTd1NzlsejhjY2diOGE5Ymphd2F0ODcyajFjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBLyUtigywgrm/giphy.gif">
 
-### 💗 Sobre mim
+### 🌺 Sobre mim
 
 Oii! Sou estudante de **Desenvolvimento de Sistemas**, apaixonada pela combinação entre tecnologia, criatividade e design.
 
