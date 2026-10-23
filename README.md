@@ -25,7 +25,6 @@
 ### 💗 Sobre mim
 
 Oii! Sou estudante de **Desenvolvimento de Sistemas**, apaixonada pela combinação entre tecnologia, criatividade e design.
-
 Tenho interesse em **desenvolvimento Front-end e UX/UI Design** e quero aprender a criar interfaces que sejam não apenas bonitas, mas também intuitivas, funcionais e acessíveis.
 
 - 🎀 Explorando o universo do desenvolvimento web.
