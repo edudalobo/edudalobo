@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVrcGdzb2lpbTdjeTd1NzlsejhjY2diOGE5Ymphd2F0ODcyajFjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBLyUtigywgrm/giphy.gif">
+<img align="right" width="151" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVrcGdzb2lpbTdjeTd1NzlsejhjY2diOGE5Ymphd2F0ODcyajFjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBLyUtigywgrm/giphy.gif">
 
 ### 💗 Sobre mim
 
