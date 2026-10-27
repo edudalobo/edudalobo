@@ -9,7 +9,7 @@
 <p align="center">
   <strong>🎀 Estudante de Desenvolvimento de Sistemas</strong>
   <br>
-  <span>💻 Interessada em Front-end e UX/UI Design</span>
+  <span>💻 Interessada em Front-end e Design Web</span>
 </p>
 
 <p align="center">
