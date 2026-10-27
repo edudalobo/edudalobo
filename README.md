@@ -9,7 +9,7 @@
 <p align="center">
   <strong>🎀 Estudante de Desenvolvimento de Sistemas</strong>
   <br>
-  <span>💻 Interessada em Front-end e Design Web</span>
+  <span>💻 Interessada em Front-end e Design UX/UI</span>
 </p>
 
 <p align="center">
@@ -26,13 +26,12 @@
 
 Sou estudante de **Desenvolvimento de Sistemas**, apaixonada pela combinação entre tecnologia, criatividade e design.
 
-Tenho interesse em **desenvolvimento Front-end e Design Web** e quero aprender a criar interfaces que sejam não apenas bonitas, mas também intuitivas, funcionais e acessíveis.
+Tenho interesse em **desenvolvimento Front-end e Design UX/UI** e quero aprender a criar interfaces que sejam não apenas bonitas, mas também intuitivas, funcionais e acessíveis.
 
 - 🎀 Explorando o universo do desenvolvimento web.
 - 🖥️ Aprendendo a transformar ideias em interfaces.
 - 🎨 Interessada em design, usabilidade e experiência do usuário.
 - 🌱 Sempre buscando aprender algo novo.
-- 🚀 Construindo meu caminho na tecnologia, um projeto de cada vez!
 
 <br clear="right"/>
 
